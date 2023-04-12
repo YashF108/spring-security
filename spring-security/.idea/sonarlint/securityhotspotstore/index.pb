@@ -1,6 +1,4 @@
 
-‡
-Wspring-security-client/src/main/java/com/example/client/controller/HelloController.java,a\3\a3e7cc226b276d53496c7d2571ac2ef0033ae1ef
 Œ
 \spring-security-client/src/main/java/com/example/client/SpringSecurityClientApplication.java,8\8\881dc1d4e8489ddca550cfcf4d2ab14d2c8a4729
 Œ
